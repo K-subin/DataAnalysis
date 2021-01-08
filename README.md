@@ -1,7 +1,7 @@
 # DataAnalysis
 여러가지 알고리즘을 이용해 파이썬으로 데이터 분석해보기
 
-## 알고리즘
+## Algorithm
 * Linear Regression
 * Logistic Regression
 * Softmax Regression
@@ -11,7 +11,7 @@
 * KNN
 * PCA
 
-## 프로젝트
+## Project
 * Word Count + Zipf law
   * Basic Linear Algebra
   * Probability and Statistics
